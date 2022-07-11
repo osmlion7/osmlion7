@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osmlion7
+- 👋 Hi, I’m Aateq Osmani
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Python and various Web Frameworks
 - 📫 How to reach me https://www.instagram.com/osmlion7/
